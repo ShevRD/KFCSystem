@@ -39,6 +39,7 @@ public class Admin {
     }
     public String getPassword(){
         return password;
+        k;
     }
     public void setPassword(String Password){
         this.password = Password;
